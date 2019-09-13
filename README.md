@@ -1,2 +1,2 @@
 # Hour2-Intro
-First exposure working with GitHub
+First exposure to working with GitHub
